@@ -11,3 +11,4 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 
 # Challenges
 - <a href="https://www.hackerrank.com/challenges/alternating-characters/problem">Alternating Characters - Hackerrank</a>
+- <a href="https://www.hackerrank.com/challenges/camelcase/problem">camelcase - Hackerrank</a>
