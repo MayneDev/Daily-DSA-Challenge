@@ -7,3 +7,7 @@ Each challenge will have a description of the problem, constraints, and example 
 If you're interested in improving your own DSA skills, feel free to fork this repository and try the challenges yourself! 
 
 Don't hesitate to reach out if you have any questions or suggestions for improvement.
+
+
+# Challenges
+- <a href="https://www.hackerrank.com/challenges/alternating-characters/problem">Alternating Characters - Hackerrank</a>
