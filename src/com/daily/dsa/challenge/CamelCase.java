@@ -1,6 +1,6 @@
 package src.com.daily.dsa.challenge;
 
-public class camelCase {
+public class CamelCase {
     public static void main(String[] args) {
         System.out.println(camelcase("saveChangesInTheEditor"));
     }
