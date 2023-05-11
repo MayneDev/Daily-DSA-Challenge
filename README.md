@@ -13,4 +13,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://www.hackerrank.com/challenges/alternating-characters/problem">Alternating Characters(Strings) - Hackerrank</a>
 - <a href="https://www.hackerrank.com/challenges/camelcase/problem">Camelcase(Strings) - Hackerrank</a>
 - <a href="https://www.hackerrank.com/challenges/strong-password/problem">Strong Password(Strings) - Hackerrank</a>
-- <a href="https://leetcode.com/problems/add-two-numbers/description/">Add two numbers(LinkedList) - Leetcode</a>
+- <a href="https://leetcode.com/problems/add-two-numbers/description/">Add two numbers(LinkedList) - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/">34. Find First and Last Position of Element in Sorted Array- Leetcode - Medium</a>
