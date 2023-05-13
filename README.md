@@ -19,3 +19,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/search-insert-position/description/">35. Search Insert Position - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/rotate-array/">189. Rotate Array - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/sort-colors/description/">75. Sort Colors - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/reverse-string/">344. Reverse String - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/valid-palindrome/">125. Valid Palindrome - Leetcode - Easy</a>
