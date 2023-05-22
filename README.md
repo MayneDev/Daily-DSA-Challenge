@@ -23,4 +23,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/valid-palindrome/">125. Valid Palindrome - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/string-to-integer-atoi/">8. String to Integer (atoi)- Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/longest-common-prefix/">14. Longest Common Prefix - Leetcode - Easy</a>
-- <a href="https://leetcode.com/problems/reverse-integer/">7. Reverse Integer - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/reverse-integer/">7. Reverse Integer - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/">2442. Count Number of Distinct Integers After Reverse Operations- Leetcode - Medium</a>
