@@ -31,3 +31,4 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167. Two Sum II - Input Array Is Sorted- Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/3sum/"> 15. 3Sum - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/container-with-most-water/"> 11. Container With Most Water - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/trapping-rain-water/"> 42. Trapping Rain Water - Leetcode - Hard</a>
