@@ -28,3 +28,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/product-of-array-except-self/description/">238. Product of Array Except Self - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/valid-sudoku/description/">36. Valid Sudoku- Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/encode-and-decode-strings/">Encode decode strings - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167. Two Sum II - Input Array Is Sorted- Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/3sum/"> 15. 3Sum - Leetcode - Medium</a>
