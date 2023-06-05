@@ -25,3 +25,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/longest-common-prefix/">14. Longest Common Prefix - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/reverse-integer/">7. Reverse Integer - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/">2442. Count Number of Distinct Integers After Reverse Operations- Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/product-of-array-except-self/description/">238. Product of Array Except Self - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/valid-sudoku/description/">36. Valid Sudoku- Leetcode - Medium</a>
