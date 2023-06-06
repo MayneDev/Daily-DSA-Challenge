@@ -32,3 +32,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/3sum/"> 15. 3Sum - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/container-with-most-water/"> 11. Container With Most Water - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/trapping-rain-water/"> 42. Trapping Rain Water - Leetcode - Hard</a>
+- <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/"> 150. Evaluate Reverse Polish Notation - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/min-stack/"> 155. Min Stack - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/valid-parentheses/"> 20. Valid Parentheses - Leetcode - Easy</a>
