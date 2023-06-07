@@ -38,3 +38,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/daily-temperatures/"> 739. Daily Temperatures - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/binary-search"> 704. Binary Search - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/generate-parentheses"> 22. Generate Parentheses - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/search-a-2d-matrix"> 74. Search a 2D Matrix - Leetcode - Medium</a>
+ 
