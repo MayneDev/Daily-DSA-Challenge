@@ -35,3 +35,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/"> 150. Evaluate Reverse Polish Notation - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/min-stack/"> 155. Min Stack - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/valid-parentheses/"> 20. Valid Parentheses - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/daily-temperatures/"> 739. Daily Temperatures - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/binary-search"> 704. Binary Search - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/generate-parentheses"> 22. Generate Parentheses - Leetcode - Medium</a>
