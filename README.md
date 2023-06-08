@@ -40,4 +40,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/generate-parentheses"> 22. Generate Parentheses - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/search-a-2d-matrix"> 74. Search a 2D Matrix - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/koko-eating-bananas"> 875. Koko Eating Bananas - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List - Leetcode - Medium</a>
  
