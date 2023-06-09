@@ -42,4 +42,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/koko-eating-bananas"> 875. Koko Eating Bananas - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/copy-list-with-random-pointer">138. Copy List with Random Pointer - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/find-the-duplicate-number">287. Find the Duplicate Number - Leetcode - Medium</a>
  
