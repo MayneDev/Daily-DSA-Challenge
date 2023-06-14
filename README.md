@@ -48,4 +48,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/balanced-binary-tree">110. Balanced Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/invert-binary-tree/">226. Invert Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree">104. Maximum Depth of Binary Tree - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/diameter-of-binary-tree">543. Diameter of Binary Tree - Leetcode - Easy</a>
  
