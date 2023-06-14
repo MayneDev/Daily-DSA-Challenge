@@ -56,4 +56,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">235. Lowest Common Ancestor of a Binary Search Tree - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/binary-tree-right-side-view">199. Binary Tree Right Side View - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree"> 1448. Count Good Nodes in Binary Tree - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/validate-binary-search-tree/"> 98. Validate Binary Search Tree - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst"> 230. Kth Smallest Element in a BST - Leetcode - Medium</a>
  
