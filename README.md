@@ -9,7 +9,7 @@ If you're interested in improving your own DSA skills, feel free to fork this re
 Don't hesitate to reach out if you have any questions or suggestions for improvement.
 
 
-# Challenges
+## Challenges
 - <a href="https://www.hackerrank.com/challenges/alternating-characters/problem">Alternating Characters(Strings) - Hackerrank</a>
 - <a href="https://www.hackerrank.com/challenges/camelcase/problem">Camelcase(Strings) - Hackerrank</a>
 - <a href="https://www.hackerrank.com/challenges/strong-password/problem">Strong Password(Strings) - Hackerrank</a>
@@ -45,8 +45,11 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/copy-list-with-random-pointer">138. Copy List with Random Pointer - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/find-the-duplicate-number">287. Find the Duplicate Number - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/permutation-in-string">567. Permutation in String - Leetcode - Medium</a>
+
+### Trees
 - <a href="https://leetcode.com/problems/balanced-binary-tree">110. Balanced Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/invert-binary-tree/">226. Invert Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree">104. Maximum Depth of Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/diameter-of-binary-tree">543. Diameter of Binary Tree - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/same-tree">100. Same Tree - Leetcode - Easy</a>
  
