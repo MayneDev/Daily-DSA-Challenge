@@ -53,4 +53,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/diameter-of-binary-tree">543. Diameter of Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/same-tree">100. Same Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/subtree-of-another-tree">572. Subtree of Another Tree - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">235. Lowest Common Ancestor of a Binary Search Tree - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/binary-tree-level-order-traversal">102. Binary Tree Level Order Traversal - Leetcode - Medium</a>
  
