@@ -52,4 +52,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree">104. Maximum Depth of Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/diameter-of-binary-tree">543. Diameter of Binary Tree - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/same-tree">100. Same Tree - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/subtree-of-another-tree">572. Subtree of Another Tree - Leetcode - Easy</a>
  
