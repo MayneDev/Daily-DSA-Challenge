@@ -1,7 +1,6 @@
 package src.com.daily.dsa.challenge.leetcode;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class ValidSudoku {
 
@@ -154,3 +153,4 @@ public class ValidSudoku {
         return true;
     }
 }
+
