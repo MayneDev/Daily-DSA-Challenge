@@ -58,4 +58,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree"> 1448. Count Good Nodes in Binary Tree - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/validate-binary-search-tree/"> 98. Validate Binary Search Tree - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst"> 230. Kth Smallest Element in a BST - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"> 105. Construct Binary Tree from Preorder and Inorder Traversal - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/"> 124. Binary Tree Maximum Path Sum - Leetcode - Hard</a>
  
