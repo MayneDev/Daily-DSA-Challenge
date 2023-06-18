@@ -65,4 +65,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 ### Trie
 - <a href="https://leetcode.com/problems/implement-trie-prefix-tree/description/"> 208. Implement Trie (Prefix Tree) - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/description/"> 211. Design Add and Search Words Data Structure - Leetcode - Medium</a>
- 
+
+## Backtracking
+- <a href="https://leetcode.com/problems/subsets/"> 78. Subsets - Leetcode - Medium</a>
+
