@@ -60,6 +60,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst"> 230. Kth Smallest Element in a BST - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"> 105. Construct Binary Tree from Preorder and Inorder Traversal - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/"> 124. Binary Tree Maximum Path Sum - Leetcode - Hard</a>
+- <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree">297. Serialize and Deserialize Binary Tree - Leetcode - Hard</a>
 
 ### Trie
 - <a href="https://leetcode.com/problems/implement-trie-prefix-tree/description/"> 208. Implement Trie (Prefix Tree) - Leetcode - Medium</a>
