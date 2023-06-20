@@ -92,3 +92,5 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/palindrome-partitioning/description/"> 131. Palindrome Partitioning - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/"> 17. Letter Combinations of a Phone Number - Leetcode - Medium</a>
 
+## Graphs
+- <a href="https://leetcode.com/problems/number-of-islands/description/"> 200. Number of Islands - Leetcode - Medium</a>
