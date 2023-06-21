@@ -94,3 +94,4 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 
 ## Graphs
 - <a href="https://leetcode.com/problems/number-of-islands/description/"> 200. Number of Islands - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/max-area-of-island/description/"> 695. Max Area of Island - Leetcode - Medium</a>
