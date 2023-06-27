@@ -106,3 +106,6 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 
 ## Dynamic Programming
 - <a href="https://leetcode.com/problems/climbing-stairs"> 70. Climbing Stairs - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/min-cost-climbing-stairs/"> 746. Min Cost Climbing Stairs - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/house-robber/"> 198. House Robber - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/house-robber-ii/"> 198. House Robber II - Leetcode - Medium</a>
