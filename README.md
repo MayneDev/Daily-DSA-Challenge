@@ -58,6 +58,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/find-the-duplicate-number">287. Find the Duplicate Number - Leetcode -
   Medium</a>
 - <a href="https://leetcode.com/problems/permutation-in-string">567. Permutation in String - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/longest-repeating-character-replacement">424. Longest Repeating Character Replacement - Leetcode - Medium</a>
 
 ### Trees
 - <a href="https://leetcode.com/problems/balanced-binary-tree">110. Balanced Binary Tree - Leetcode - Easy</a>
@@ -113,9 +114,19 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/coin-change"> 322. Coin Change - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/longest-common-subsequence"> 1143. Longest Common Subsequence - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/unique-paths"> 62. Unique Paths - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/interleaving-string"> 97. Interleaving String - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"> 329. Longest Increasing Path in a Matrix - Leetcode - Medium</a>
   
 ## Heap & Priority Queues
 - <a href="https://leetcode.com/problems/last-stone-weight/"> 1046. Last Stone Weight - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/"> 703. Kth Largest Element in a Stream - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/k-closest-points-to-origin/description/"> 973. K Closest Points to Origin - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/"> 215. Kth Largest Element in an Array - Leetcode - Medium</a>
+
+## Bit manupulation
+- 268 Missing Number 
+- 7 Reverse Integer
+- 494. Target Sum
+
+
+

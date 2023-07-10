@@ -27,6 +27,7 @@ public class LongestCommonSubsequence {
             memo.put(key, lcs);
             return lcs;
         }
+
         int lcs = Math.max(LCS(text1, text2, i + 1, j), LCS(text1, text2, i, j + 1));
         memo.put(key, lcs);
         return lcs;
