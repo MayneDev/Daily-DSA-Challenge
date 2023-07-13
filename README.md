@@ -104,6 +104,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/course-schedule-ii"> 207. Course Schedule II - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/redundant-connection"> 684. Redundant Connection - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/number-of-provinces"> 547. Number of Provinces - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/word-ladder"> 127. Word Ladder - Leetcode - Hard</a>
 
 ## Dynamic Programming
 - <a href="https://leetcode.com/problems/climbing-stairs"> 70. Climbing Stairs - Leetcode - Easy</a>
@@ -116,6 +117,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/unique-paths"> 62. Unique Paths - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/interleaving-string"> 97. Interleaving String - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"> 329. Longest Increasing Path in a Matrix - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/maximum-product-subarray/"> 152. Maximum Product Subarray - Leetcode - Medium</a>
   
 ## Heap & Priority Queues
 - <a href="https://leetcode.com/problems/last-stone-weight/"> 1046. Last Stone Weight - Leetcode - Easy</a>
