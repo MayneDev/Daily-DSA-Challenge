@@ -119,6 +119,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"> 329. Longest Increasing Path in a Matrix - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/maximum-product-subarray/"> 152. Maximum Product Subarray - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/palindromic-substrings/"> 647. Palindromic Substrings - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/decode-ways/"> 91. Decode Ways - Leetcode - Medium</a>
   
 ## Heap & Priority Queues
 - <a href="https://leetcode.com/problems/last-stone-weight/"> 1046. Last Stone Weight - Leetcode - Easy</a>
