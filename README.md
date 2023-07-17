@@ -127,6 +127,13 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/k-closest-points-to-origin/description/"> 973. K Closest Points to Origin - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/"> 215. Kth Largest Element in an Array - Leetcode - Medium</a>
 
+## Greedy
+- <a href="https://leetcode.com/problems/maximum-subarray"> 53. Maximum Subarray - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/jump-game"> 55. Jump Game - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/jump-game-ii/"> 55. Jump Game II - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/gas-station"> 134. Gas Station - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/valid-parenthesis-string/"> 678. Valid Parenthesis String - Leetcode - Medium</a>
+
 ## Bit manupulation
 - 268 Missing Number 
 - 7 Reverse Integer
