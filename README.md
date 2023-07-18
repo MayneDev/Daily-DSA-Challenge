@@ -59,6 +59,9 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
   Medium</a>
 - <a href="https://leetcode.com/problems/permutation-in-string">567. Permutation in String - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/longest-repeating-character-replacement">424. Longest Repeating Character Replacement - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number - Leetcode - Easy</a>
+- <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array">852. Peak Index in a Mountain Array - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/minimum-time-difference">539. Minimum Time Difference - Leetcode - Medium</a>
 
 ### Trees
 - <a href="https://leetcode.com/problems/balanced-binary-tree">110. Balanced Binary Tree - Leetcode - Easy</a>
@@ -133,6 +136,9 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/jump-game-ii/"> 55. Jump Game II - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/gas-station"> 134. Gas Station - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/valid-parenthesis-string/"> 678. Valid Parenthesis String - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/partition-labels/"> 763. Partition Labels - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/merge-triplets-to-form-target-triplet/"> 1899. Merge Triplets to Form Target Triplet - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/hand-of-straights/"> 846. Hand of Straights - Leetcode - Medium</a>
 
 ## Bit manupulation
 - 268 Missing Number 
