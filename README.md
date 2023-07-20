@@ -144,9 +144,9 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 ## Intervals
 - <a href="https://leetcode.com/problems/insert-interval/"> 57. Insert Interval - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/non-overlapping-intervals/"> 435. Non-overlapping Intervals - Leetcode - Medium</a>
-- <a href="https://leetcode.com/problems/meeting-rooms/"> Meeting Rooms - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/meeting-rooms/"> Meeting Rooms - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/meeting-rooms-ii/"> Meeting Rooms II - Leetcode - Medium</a>
-
+- <a href="https://leetcode.com/problems/minimum-interval-to-include-each-query/"> 1851. Minimum Interval to Include Each Query - Leetcode - HArd</a>
 
 
 ## Bit manupulation
