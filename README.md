@@ -63,6 +63,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array">852. Peak Index in a Mountain Array - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/minimum-time-difference">539. Minimum Time Difference - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/the-k-strongest-values-in-an-array/">1471. The k Strongest Values in an Array - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/stock-price-fluctuation/">2034. Stock Price Fluctuation - Leetcode - Medium</a>
 
 ### Trees
 - <a href="https://leetcode.com/problems/balanced-binary-tree">110. Balanced Binary Tree - Leetcode - Easy</a>
@@ -81,6 +82,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst"> 230. Kth Smallest Element in a BST - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"> 105. Construct Binary Tree from Preorder and Inorder Traversal - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/"> 124. Binary Tree Maximum Path Sum - Leetcode - Hard</a>
+- <a href="https://leetcode.com/problems/find-leaves-of-binary-tree/"> 124. Binary Tree Maximum Path Sum - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree">297. Serialize and Deserialize Binary
   Tree - Leetcode - Hard</a>
 
