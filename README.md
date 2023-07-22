@@ -64,6 +64,7 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/minimum-time-difference">539. Minimum Time Difference - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/the-k-strongest-values-in-an-array/">1471. The k Strongest Values in an Array - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/stock-price-fluctuation/">2034. Stock Price Fluctuation - Leetcode - Medium</a>
+- <a href="https://leetcode.com/problems/stock-price-fluctuation/">278. First Bad Version - Leetcode - Easy</a>
 
 ### Trees
 - <a href="https://leetcode.com/problems/balanced-binary-tree">110. Balanced Binary Tree - Leetcode - Easy</a>
