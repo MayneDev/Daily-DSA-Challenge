@@ -69,6 +69,8 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - Top K Frequent Words - Leetcode - Medium
 - 4\. Median of Two Sorted Arrays
 - 68\. Text Justification
+- 299\. Bulls and Cows
+
 
 
 
