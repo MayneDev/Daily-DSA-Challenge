@@ -73,6 +73,8 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - 740\. Delete and Earn
 - 551\. Student Attendance Record I
 - 162\. Find Peak Element
+- 560\. Subarray Sum Equals K
+- 50\. Pow(x, n)
 
 
 ### Trees
