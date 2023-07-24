@@ -71,7 +71,8 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - 68\. Text Justification
 - 299\. Bulls and Cows
 - 740\. Delete and Earn
-
+- 551\. Student Attendance Record I
+- 162\. Find Peak Element
 
 
 ### Trees
