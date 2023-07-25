@@ -138,7 +138,8 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/maximum-product-subarray/"> 152. Maximum Product Subarray - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/palindromic-substrings/"> 647. Palindromic Substrings - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/decode-ways/"> 91. Decode Ways - Leetcode - Medium</a>
-  
+- 72\. Edit Distance
+
 ## Heap & Priority Queues
 - <a href="https://leetcode.com/problems/last-stone-weight/"> 1046. Last Stone Weight - Leetcode - Easy</a>
 - <a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/"> 703. Kth Largest Element in a Stream - Leetcode - Easy</a>
