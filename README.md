@@ -98,6 +98,9 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree">297. Serialize and Deserialize Binary
   Tree - Leetcode - Hard</a>
 
+### Stacks
+- <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/"> 84. Largest retangle in Histogram  - Leetcode - Medium</a>
+
 ### Trie
 - <a href="https://leetcode.com/problems/implement-trie-prefix-tree/description/"> 208. Implement Trie (Prefix Tree) - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/description/"> 211. Design Add and Search Words Data Structure - Leetcode - Medium</a>
@@ -139,6 +142,8 @@ Don't hesitate to reach out if you have any questions or suggestions for improve
 - <a href="https://leetcode.com/problems/palindromic-substrings/"> 647. Palindromic Substrings - Leetcode - Medium</a>
 - <a href="https://leetcode.com/problems/decode-ways/"> 91. Decode Ways - Leetcode - Medium</a>
 - 72\. Edit Distance
+- 312\. Burst Balloons
+
 
 ## Heap & Priority Queues
 - <a href="https://leetcode.com/problems/last-stone-weight/"> 1046. Last Stone Weight - Leetcode - Easy</a>

@@ -6,7 +6,7 @@ import java.util.Queue;
 import java.util.Set;
 
 public class MaxAreaOfIsland {
-    public int maxAreaOfIsland(int[][] grid) {
+    public int maxAreaOfIsland1(int[][] grid) {
 
         int maxArea = 0;
         Set<String> visited = new HashSet<>();
@@ -55,4 +55,44 @@ public class MaxAreaOfIsland {
 
     }
 
+    public int maxAreaOfIsland(int[][] grid) {
+        int maxArea = 0;
+        Queue<int[]> nodes = new LinkedList<>();
+        Set<String> visited = new HashSet<>();
+
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[i].length; j++) {
+                if (grid[i][j] == 1 && !visited.contains(i + "," + j)) {
+                    visited.add(i + "," + j);
+                    nodes.offer(new int[]{i, j});
+                    int area = 0;
+
+                    while (!nodes.isEmpty()) {
+                        int[] curr = nodes.poll();
+                        area++;
+                        int[][] dirs = new int[][]{{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
+                        for (int[] dir : dirs) {
+                            int r = curr[0] + dir[0];
+                            int c = curr[1] + dir[2];
+
+                            if (r < 0 || c < 0 || r == grid.length || c == grid[0].length || grid[r][c] == 0 || visited.contains(r+","+c)) {
+                                continue;
+                            }
+
+                            visited.add(r+","+c);
+                            nodes.offer(new int[]{r, c});
+                        }
+                    }
+
+                    maxArea = Math.max(area,maxArea);
+                }
+            }
+        }
+        return maxArea;
+    }
+
+
+    // [ 3 4 ]
+    // / 5 6]
 }
